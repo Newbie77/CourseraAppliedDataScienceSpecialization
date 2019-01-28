@@ -8,7 +8,7 @@ The 5 courses in this University of Michigan specialization introduce learners t
 programming language. This skills-based specialization is intended for learners who have a basic python or programming <br/>
 background, and want to apply statistical, machine learning, information visualization, text analysis, and social network <br/>
 analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx to gain <br/>
-insight into their data.
+insight into their data. <br/>
 
 Course 1: Introduction to Data Science in Python <br/>
 Course 2: Applied Plotting, Charting & Data Representation in Python <br/>
