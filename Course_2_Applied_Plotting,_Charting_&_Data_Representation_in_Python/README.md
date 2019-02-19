@@ -7,7 +7,7 @@ Certificate:
 ### Week 1
 
 Learning Objectives:
-Choose a graphic that displays misleading information
+Choose a graphic that displays misleading information</br>
 Interpret the features of the graphic in order to identify the mechanism(s) that is/are used by the "encoder" to mislead the "decoder"
 Analyze the graphic and use principles from Alberto Cairo's work to explain how the graphic is misleading
 Create a radar plot in order to reflect on the complexity of the misleading graphic
