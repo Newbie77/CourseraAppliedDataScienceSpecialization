@@ -22,7 +22,7 @@ Learning Objectives:</br>
 - Employ the pandas library to import and manipulate data</br>
 - Apply indexing and querying to DataFrames, and deal with missing values</br>
 
-Assignment: Assignment 2 - Pandas Introduction
+Assignment: Assignment 2 - Pandas Introduction</br>
 Link: https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_1_Introduction_to_Data_Science_in_Python/AssignmentWeek2.ipynb
 
 ### Week 3:
@@ -34,7 +34,7 @@ Learning Objectives:</br>
 - Produce the entire process of data source to elucidation</br>
 - Examine the data by manipulating, cutting, and applying aggregate functions to DataFrames</br>
 
-Assignment: Assignment 3 - More Pandas
+Assignment: Assignment 3 - More Pandas</br>
 Link: https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_1_Introduction_to_Data_Science_in_Python/AssignmentWeek3.ipynb
 
 ### Week 4:
