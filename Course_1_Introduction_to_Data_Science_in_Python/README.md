@@ -1,7 +1,7 @@
 # Coursera Applied Data Science Specialization
 ## Introduction to Data Science in Python
 
-Grade Achieved: 100.0%
+Grade Achieved: 100.0% </br>
 Certificate:
 https://www.coursera.org/account/accomplishments/certificate/S6ZDKG8MLXKG
 
