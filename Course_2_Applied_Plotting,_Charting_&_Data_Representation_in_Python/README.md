@@ -47,4 +47,4 @@ Assignment: Assignment 4 - Becoming an Independent Data Scientist
 Link:
 
 	
-*Emphasize* Note: all the data sources are located in:
+*Note:* all the data sources are located in:
