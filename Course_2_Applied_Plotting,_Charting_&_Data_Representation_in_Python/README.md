@@ -11,7 +11,9 @@ Learning Objectives:</br>
 - Interpret the features of the graphic in order to identify the mechanism(s) that is/are used by the "encoder" to mislead the "decoder"</br>
 - Analyze the graphic and use principles from Alberto Cairo's work to explain how the graphic is misleading</br>
 - Create a radar plot in order to reflect on the complexity of the misleading graphic</br>
+
 Assignment:
+Link:
 
 ### Week 2:
 Learning Objectives:</br>
@@ -19,6 +21,7 @@ Learning Objectives:</br>
 - Know how to create a line graph using matplotlib</br>
 - Manipulate data to get the minimum and maximum temperature</br>
 - Demonstrate procedure of composite charts</br>
+
 Assignment: Assignment 2 - Plotting Weather Patterns</br>
 Link:
 
@@ -29,6 +32,7 @@ Learning Objectives:</br>
 - Use subplots to combine plots into a single figure</br>
 - Create insightful plots such as histograms, box plots, and histograms</br>
 - Create animated and interactive visualizations</br>
+
 Assignment: Assignment 3 - Building a Custom Visualization
 Link:
 
@@ -38,7 +42,9 @@ Learning Objectives</br>
 - State a research question that can be answered using two publicly accessible datasets</br>
 - Create a visual using matplotlib that addresses your stated research question</br>
 - Justify how the visual addresses your research question</br>
+
 Assignment: Assignment 4 - Becoming an Independent Data Scientist
 Link:
 
-Note: all the data sources are located in:
+	
+*Emphasize* Note: all the data sources are located in:
