@@ -46,5 +46,5 @@ Learning Objectives</br>
 Assignment: Assignment 4 - Becoming an Independent Data Scientist
 Link:
 
-	
+
 *Note:* all the data sources are located in:
