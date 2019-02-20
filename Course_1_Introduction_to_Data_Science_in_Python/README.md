@@ -23,7 +23,7 @@ Learning Objectives:</br>
 - Apply indexing and querying to DataFrames, and deal with missing values</br>
 
 Assignment: Assignment 2 - Pandas Introduction</br>
-Link: https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_1_Introduction_to_Data_Science_in_Python/AssignmentWeek2.ipynb
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_1_Introduction_to_Data_Science_in_Python/AssignmentWeek2.ipynb
 
 ### Week 3:
 
@@ -35,7 +35,7 @@ Learning Objectives:</br>
 - Examine the data by manipulating, cutting, and applying aggregate functions to DataFrames</br>
 
 Assignment: Assignment 3 - More Pandas</br>
-Link: https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_1_Introduction_to_Data_Science_in_Python/AssignmentWeek3.ipynb
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_1_Introduction_to_Data_Science_in_Python/AssignmentWeek3.ipynb
 
 ### Week 4:
 
@@ -45,6 +45,6 @@ Learning Objectives</br>
 - Interpret data to evaluate hypothesis tests</br>
 
 Assignment: Assignment 4 - Hypothesis Testing</br>
-Link: https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_1_Introduction_to_Data_Science_in_Python/AssignmentWeek4_Project.ipynb
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_1_Introduction_to_Data_Science_in_Python/AssignmentWeek4_Project.ipynb
 
 *Note:* all the data sources are located in: https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/tree/master/Course_1_Introduction_to_Data_Science_in_Python/data
