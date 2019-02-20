@@ -1,7 +1,7 @@
 # Coursera Applied Data Science Specialization
 ## Applied Plotting, Charting & Data Representation in Python
 
-Grade Achieved: 100%
+Grade Achieved: 100% <br>
 Certificate: https://www.coursera.org/account/accomplishments/certificate/HGME8JYVA4EW
 
 ### Week 1
