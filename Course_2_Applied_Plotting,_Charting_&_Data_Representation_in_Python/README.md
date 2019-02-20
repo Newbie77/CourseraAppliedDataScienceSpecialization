@@ -47,3 +47,4 @@ Assignment: Assignment 4 - Becoming an Independent Data Scientist
 https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_2_Applied_Plotting%2C_Charting_%26_Data_Representation_in_Python/Assignment4%20Becoming%20an%20Independent%20Data%20Scientist.ipynb
 
 *Note:* all the data sources are located in:
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/tree/master/Course_1_Introduction_to_Data_Science_in_Python/data
