@@ -12,8 +12,8 @@ Learning Objectives:</br>
 - Analyze the graphic and use principles from Alberto Cairo's work to explain how the graphic is misleading</br>
 - Create a radar plot in order to reflect on the complexity of the misleading graphic</br>
 
-Assignment:
-Link:
+Assignment:Assignment 1 - Graphics Lies, Misleading Visuals <br>
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_2_Applied_Plotting%2C_Charting_%26_Data_Representation_in_Python/Assignment1%20Graphics%20Lies%2C%20Misleading%20Visuals.ipynb
 
 ### Week 2:
 Learning Objectives:</br>
@@ -23,7 +23,7 @@ Learning Objectives:</br>
 - Demonstrate procedure of composite charts</br>
 
 Assignment: Assignment 2 - Plotting Weather Patterns</br>
-Link:
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_2_Applied_Plotting%2C_Charting_%26_Data_Representation_in_Python/Assignment2%20Plotting%20temperature%20patterns.ipynb
 
 ### Week 3:
 Learning Objectives:</br>
@@ -34,7 +34,7 @@ Learning Objectives:</br>
 - Create animated and interactive visualizations</br>
 
 Assignment: Assignment 3 - Building a Custom Visualization
-Link:
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_2_Applied_Plotting%2C_Charting_%26_Data_Representation_in_Python/Assignment3%20Building%20a%20Custom%20Visualization.ipynb
 
 ### Week 4:
 Learning Objectives</br>
@@ -44,7 +44,6 @@ Learning Objectives</br>
 - Justify how the visual addresses your research question</br>
 
 Assignment: Assignment 4 - Becoming an Independent Data Scientist
-Link:
-
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_2_Applied_Plotting%2C_Charting_%26_Data_Representation_in_Python/Assignment4%20Becoming%20an%20Independent%20Data%20Scientist.ipynb
 
 *Note:* all the data sources are located in:
