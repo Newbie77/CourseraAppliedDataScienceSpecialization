@@ -2,9 +2,6 @@
 
 ## Applied Machine Learning in Python
 
-# Coursera Applied Data Science Specialization
-
-## Applied Plotting, Charting & Data Representation in Python
 
 Grade Achieved: 97.2% <br>
 Certificate: https://www.coursera.org/account/accomplishments/verify/H36KKYN2VDG8
@@ -19,6 +16,7 @@ Learning Objectives:</br>
 - Build and evaluate a basic k-nearest neighbors classifier on an example dataset using Python and scikit-learn</br>
 
 Assignment:Assignment 1<br>
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_3_Applied_Machine_Learning_in_Python/Assignment%2B1.ipynb
 
 ### Week 2:
 
@@ -31,6 +29,7 @@ Learning Objectives:</br>
 - Apply techniques like regularization, feature scaling, and cross-validation to avoid common pitfalls like under- and overfitting.</br>
 
 Assignment: Assignment 2</br>
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_3_Applied_Machine_Learning_in_Python/Assignment%2B2.ipynb
 
 ### Week 3:
 
@@ -41,6 +40,7 @@ Learning Objectives:</br>
 - Optimize a machine learning algorithm using a specific evaluation metric appropriate for a given task</br>
 
 Assignment: Assignment 3 </br>
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_3_Applied_Machine_Learning_in_Python/Assignment%2B3.ipynb
 
 ### Week 4:
 
@@ -52,5 +52,7 @@ Learning Objectives</br>
 - Recognize and avoid instances of data leakage</br>
 
 Assignment: Assignment 4 </br>
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_3_Applied_Machine_Learning_in_Python/Assignment%2B4.ipynb
 
 _Note:_ all the data sources are located in:
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/tree/master/Course_3_Applied_Machine_Learning_in_Python/data
