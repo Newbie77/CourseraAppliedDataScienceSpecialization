@@ -14,10 +14,15 @@ Learning Objectives:</br>
 - Write regular expressions to find textual patterns.</br>
 
 Assignment:Assignment 1<br>
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/blob/master/Course_4_Applied_Text_Mining_in_Python/Assignment%2B1.ipynb
 
 ### Week 2:
 
 Learning Objectives:</br>
+
+- Describe different natural language tasks.</br>
+- Process free text through the NLTK toolkit to tag language constructs onto text.</br>
+- Derive meaningful features from text.</br>
 
 Assignment: Assignment 2</br>
 
@@ -34,3 +39,4 @@ Learning Objectives</br>
 Assignment: Assignment 4 </br>
 
 _Note:_ all the data sources are located in:
+https://github.com/nataliak29/CourseraAppliedDataScienceSpecialization/tree/master/Course_4_Applied_Text_Mining_in_Python/data
